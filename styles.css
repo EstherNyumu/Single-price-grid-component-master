@@ -1,0 +1,70 @@
+  @import url('https://fonts.googleapis.com/css2?family=Karla:wght@400;700&display=swap');
+
+.heading{
+    color:  hsl(179, 62%, 43%);
+}
+.paragraph1{
+    color: hsl(218, 22%, 67%);
+}
+.paragraph2{
+    color:hsl(216, 47%, 90%) ;
+}
+.sub-heading1{
+    color: hsl(71, 73%, 54%);
+}
+.sub-heading2{
+    color: #edffff;
+}
+.subscription{
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+}
+button{
+    border: 0px;
+    background-color:hsl(71, 73%, 54%);
+    color: hsl(204, 43%, 93%);
+    padding: 15px;
+    width: 220px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+.main_wrapper{
+    box-shadow: 0 0 30px rgba(0,0,0,0.1);
+    display: flex;
+    width: 50%;
+    margin: auto;    
+    border-radius: 5px;
+    flex-direction: column;
+}
+.sub_wrapper{
+    display: flex;
+    flex-direction: row;
+}
+.introduction_part{
+    background-color: white;
+    width: 571px;
+    border: 0px;
+    padding: 30px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+.payment_plan{
+    background-color: #2bb3b1;
+    width: 261px;
+    border: 0px;
+    padding: 30px;
+    border-bottom-left-radius: 5px;
+}
+.community_benefits{
+    background-color: #4abebc;
+    width: 261px;
+    border: 0px;
+    padding: 30px;
+    border-bottom-right-radius: 5px;
+}
+body{
+    background-color: #e6eff6;
+    font-family: 'Karla', sans-serif;
+    font-size: 16px;
+}
