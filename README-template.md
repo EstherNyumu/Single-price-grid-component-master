@@ -19,7 +19,7 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
-
+This is a project using HTML and CSS to create a website using elemets such as a box,
 ### The challenge
 
 Users should be able to:
@@ -50,12 +50,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
+- Wrapper/container property 
 
 **Note: These are just examples. Delete this note and replace the list above with your own choices**
 
