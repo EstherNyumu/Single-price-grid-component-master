@@ -82,7 +82,7 @@ body{
     font-size: 16px;
 }
 
-@media (max-width: 700px) {
+@media (max-width: 1000px) {
     .sub_wrapper {
         display: flex;
         flex-direction: column;
@@ -90,18 +90,14 @@ body{
     .main_wrapper{
         width: 85%;
     }
-    .introduction_part{
-        height: 32vh;
-    }
+
     .payment_plan{
         width: auto;
         border-bottom-left-radius: 0;
-        height: 29vh;
     }
     .community_benefits{
         width: auto;
         border-bottom-left-radius: 5px;
-        height: 24vh;
     }
     body{
         font-size: 15px;
